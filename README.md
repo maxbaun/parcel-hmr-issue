@@ -7,6 +7,7 @@
 5. Open browser console
 6. Make a change to the JSX in src/index.html
 7. See the console say "Console was cleared"
+8. Page will not replace the content you change, or reload
 
 # Steps to fix HMR issue
 
